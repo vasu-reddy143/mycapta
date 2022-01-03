@@ -1,0 +1,2 @@
+# mycapta
+about python program
